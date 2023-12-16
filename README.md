@@ -1,1 +1,1 @@
-# Python-Practice
+# Python practice problems to demonstrate basic proficiency
